@@ -6,4 +6,5 @@ El proyecto consiste en la documentación y planeación de un sistema de gestió
 
 # Equipo
 -Harold Alonso Herrera Beltran-Scrum Master,Full Stack,Quality Assurance
+
 -Erika Daniela Verdugo Rodriguez- Frontend,Backend
