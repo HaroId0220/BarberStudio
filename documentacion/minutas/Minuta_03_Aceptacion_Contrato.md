@@ -91,4 +91,4 @@ La información contenida en este documento es de uso exclusivo del equipo de pr
 
 El cliente manifiesta conformidad con el alcance, objetivos y funcionalidades aprobadas para la primera versión del sistema BarberStudio.
 
-Se acuerda que la siguiente reunión será de seguimiento y monitoreo del avance del proyecto, programada para el **17 de junio de 2026**.
+Se acuerda que la siguiente reunión será de seguimiento y monitoreo del avance del proyecto, programada para el **11 de junio de 2026**.
