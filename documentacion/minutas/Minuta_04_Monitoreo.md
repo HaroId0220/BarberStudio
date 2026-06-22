@@ -4,7 +4,7 @@
 
 | Número Versión | Fecha Versión | Tipo Cambio        | Dueño/Autor                   | Aprobado por | Fecha Revisión |
 | -------------- | ------------- | ------------------ | ----------------------------- | ------------ | -------------- |
-| 1              | 17/06/2026    | Creación Documento | Harold Alonso Herrera Beltrán | Scrum Master | 17/06/2026     |
+| 1              | 11/06/2026    | Creación Documento | Harold Alonso Herrera Beltrán | Scrum Master | 11/06/2026     |
 
 ## Restricciones
 
@@ -16,11 +16,11 @@ La información contenida en este documento es de uso exclusivo del equipo de pr
 
 | Reunión # | Objetivo                             | Fecha de Elaboración |
 | --------- | ------------------------------------ | -------------------- |
-| 4         | Seguimiento y monitoreo del proyecto | 17/06/2026           |
+| 4         | Seguimiento y monitoreo del proyecto | 11/06/2026           |
 
 | Lugar    | Fecha      | Hora      | Convocada por |
 | -------- | ---------- | --------- | ------------- |
-| Culiacán | 17/06/2026 | 14:00 Hrs | Scrum Master  |
+| Culiacán | 11/06/2026 | 14:00 Hrs | Scrum Master  |
 
 ---
 
@@ -48,7 +48,7 @@ La información contenida en este documento es de uso exclusivo del equipo de pr
 
 ## Estado del Proyecto
 
-El periodo evaluado corresponde del **10 de junio de 2026 al 17 de junio de 2026**.
+El periodo evaluado corresponde del **10 de junio de 2026 al 11 de junio de 2026**.
 
 Actualmente el proyecto se encuentra en fase de desarrollo.
 
@@ -91,24 +91,15 @@ Actualmente el proyecto se encuentra en fase de desarrollo.
 
 ---
 
-## Hitos del Proyecto
-
-| Hito                         | Fecha      |
-| ---------------------------- | ---------- |
-| Finalización del análisis    | 10/06/2026 |
-| Finalización del diseño      | 15/06/2026 |
-| Primer módulo funcional      | 17/06/2026 |
-| Inicio de pruebas integrales | 22/06/2026 |
-
 ---
 
 ## Acciones Pendientes
 
 | # | Acción                           | Responsable                     | Fecha de vencimiento |
 | - | -------------------------------- | ------------------------------- | -------------------- |
-| 1 | Completar módulo de citas        | Erika Daniela Verdugo Rodríguez | 22/06/2026           |
-| 2 | Implementar control de anticipos | Harold Alonso Herrera Beltrán   | 22/06/2026           |
-| 3 | Elaborar casos de prueba         | Harold Alonso Herrera Beltrán   | 22/06/2026           |
+| 1 | Completar módulo de citas        | Erika Daniela Verdugo Rodríguez | 12/06/2026           |
+| 2 | Implementar control de anticipos | Harold Alonso Herrera Beltrán   | 12/06/2026           |
+| 3 | Elaborar casos de prueba         | Harold Alonso Herrera Beltrán   | 12/06/2026           |
 
 ---
 
@@ -116,4 +107,4 @@ Actualmente el proyecto se encuentra en fase de desarrollo.
 
 El proyecto avanza conforme al cronograma establecido. No existen desviaciones críticas que comprometan la fecha de entrega prevista.
 
-Se acuerda realizar una reunión de revisión de pruebas el **24 de junio de 2026**.
+Se acuerda realizar una reunión de revisión de pruebas el **13 de junio de 2026**.
