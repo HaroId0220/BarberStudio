@@ -1,4 +1,4 @@
-# Minuta de Reunión de Aceptación de Requerimientos
+# Minuta de Reunión de Aceptación de Requerimientos 
 
 ## Tabla de Revisión
 
