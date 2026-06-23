@@ -1,6 +1,6 @@
 # Minuta de Reunión de Monitoreo
 
-## Tabla de Revisión
+## Tabla de Revisión 
 
 | Número Versión | Fecha Versión | Tipo Cambio        | Dueño/Autor                   | Aprobado por | Fecha Revisión |
 | -------------- | ------------- | ------------------ | ----------------------------- | ------------ | -------------- |
