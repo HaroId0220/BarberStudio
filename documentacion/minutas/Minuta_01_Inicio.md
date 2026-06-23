@@ -1,4 +1,4 @@
-# Minuta de Reunión de Inicio
+# Minuta de Reunión de Inicio 
 
 ## Tabla de Revisión
 
