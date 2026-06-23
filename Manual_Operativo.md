@@ -1,5 +1,5 @@
 # Manual Operativo de Procesos del Proyecto
-
+ 
 ## BarberStudio
 
 Este manual consolida los requerimientos y acuerdos de diseño establecidos por el equipo de **BarberStudio** para la construcción técnica y validación del sistema de gestión.
