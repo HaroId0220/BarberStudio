@@ -1,4 +1,4 @@
-# Minuta de Reunión de Aceptación de Contrato
+# Minuta de Reunión de Aceptación de Contrato 
 
 ## Tabla de Revisión
 
