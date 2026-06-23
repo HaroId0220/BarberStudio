@@ -2,7 +2,7 @@
 
 ## Tabla de Revisión
 
-| Versión | Fecha      | Tipo de Cambio     | Autor                         |
+| Versión | Fecha      | Tipo de Cambio      | Autor                         |
 | ------- | ---------- | ------------------ | ----------------------------- |
 | 1       | 15/06/2026 | Creación Documento | Harold Alonso Herrera Beltrán |
 
