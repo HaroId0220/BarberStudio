@@ -2,7 +2,7 @@
 
 ## Tabla de Revisión
 
-| Número Versión | Fecha Versión | Tipo Cambio        | Dueño/Autor                   | Aprobado por | Fecha Revisión |
+| Número Versión | Fecha Versión | Tipo Cambio        | Dueño/Autor                    | Aprobado por | Fecha Revisión |
 | -------------- | ------------- | ------------------ | ----------------------------- | ------------ | -------------- |
 | 1              | 12/06/2026    | Creación Documento | Harold Alonso Herrera Beltrán | Scrum Master | 12/06/2026     |
 
