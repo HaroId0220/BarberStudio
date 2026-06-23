@@ -1,5 +1,5 @@
 # BarberStudio Proyecto ISOFT III
-
+ 
 # BarberStudio
 
 Sistema web para la administración de barberías desarrollado como proyecto de Ingeniería de Software.
